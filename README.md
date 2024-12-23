@@ -18,7 +18,7 @@ This repository documents the journey of creating the **Emilia Sculpt** as part 
 
 ## 🌐 Explore More
 
-Looking for a full overview of all my Blender projects? Head over to the **[Blender-Projects-Repo Wiki](h[ttps://github.com/ux-fran/blender-projects-repo/wiki](https://github.com/ux-fran/blender-projects-main-hub-repo/wiki)**—the central hub where I showcase all my projects and share insights about my Blender journey. 🛠️✨
+Looking for a full overview of all my Blender projects? Head over to the **[Blender-Projects-Repo Wiki](https://github.com/ux-fran/blender-projects-main-hub-repo/wiki)**—the central hub where I showcase all my projects and share insights about my Blender journey. 🛠️✨
 
 ---
 
