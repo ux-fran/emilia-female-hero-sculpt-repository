@@ -8,7 +8,7 @@ This repository documents the journey of creating the **Emilia Sculpt** as part 
 ## 📌 What's Inside
 
 - **Project Progress**:
-  - Track my progress with the [Kanban Board](https://github.com/users/ux-fran/projects/65/views/2) or explore the [Backlog](https://github.com/users/ux-fran/projects/65) for detailed steps.
+  - Explore the [Backlog](https://github.com/users/ux-fran/projects/65) for detailed steps or track my progress with the [Kanban Board](https://github.com/users/ux-fran/projects/65/views/2) or e.
 - **Key Milestones**:
   - Milestone breakdowns with links to specific tasks or achievements.
 - **Resources**:
