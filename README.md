@@ -10,7 +10,7 @@ This project showcases the process of sculpting **Emilia** in Blender, exploring
 - **Goal**: To sculpt a highly detailed character model of **Emilia**, focusing on creating expressive features and realistic anatomy.
 - **Art Style**: Semi-realistic character design with attention to facial expressions and hair sculpting.
 - **Tools Used**: Blender for sculpting, and ZBrush for refining details.
-- **Project Inspiration**: [Sculpting Emilia](https://www.fran43cg.com/blog/2024/02/21/sculpting-emilia/)
+- **Project Inspiration**: [Sculpting Emilia](https://www.fran43cg.com/blog/2024/02/21/sculpting-emilia/) (my blog)
 
 ### Key Features
 - **Facial Sculpting**: Special attention was given to facial anatomy, expression, and proportions to bring out Emilia’s personality.
