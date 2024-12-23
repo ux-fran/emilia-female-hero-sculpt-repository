@@ -35,6 +35,7 @@ Stay updated on my creative journey and follow me on my other platforms:
 ## 🖼️ A Glimpse of the Project
 
 Here’s a preview of the Emilia sculpt! 
+
 <img width="451" alt="image" src="https://github.com/user-attachments/assets/98e0476a-aec1-46c2-a444-37f25cb1c27a">
 
 ---
