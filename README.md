@@ -16,7 +16,7 @@ Here’s a preview of the Emilia sculpt!
 
 ---
 
-## 📌 What's Inside
+## 📌 What's Inside this repository
 
 - **Project Progress**:
   - Explore the [Backlog](https://github.com/users/ux-fran/projects/65) for detailed steps or track my progress with the [Kanban Board](https://github.com/users/ux-fran/projects/65/views/2).
