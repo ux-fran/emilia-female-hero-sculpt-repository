@@ -1,5 +1,5 @@
 # Welcome to the Emilia Sculpt Repository!
-_Project status: Finished_\
+_Project status: Finished_ 🎉\
 _Repository_: [emilia-female-hero-sculpt-repo](https://github.com/ux-fran/emilia-female-hero-sculpt-repo)\
 _Project Progress_: [Emilia Workflow](https://github.com/users/ux-fran/projects/65)
 
