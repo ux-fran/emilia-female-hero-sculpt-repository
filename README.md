@@ -7,6 +7,14 @@ This repository documents the journey of creating the **Emilia Sculpt** as part 
 
 ---
 
+## 🖼️ A Glimpse of the Project
+
+Here’s a preview of the Emilia sculpt! 
+
+<img width="451" alt="image" src="https://github.com/user-attachments/assets/98e0476a-aec1-46c2-a444-37f25cb1c27a">
+
+---
+
 ## 📌 What's Inside
 
 - **Project Progress**:
@@ -31,14 +39,6 @@ Stay updated on my creative journey and follow me on my other platforms:
 - **Blog**: [Fran43CG](https://www.fran43cg.com)  
 - **YouTube**: [Fran43CG Channel](https://www.youtube.com/@Fran43CG)  
 - **Instagram**: [@Fran43CG](https://www.instagram.com/fran43cg/)  
-
----
-
-## 🖼️ A Glimpse of the Project
-
-Here’s a preview of the Emilia sculpt! 
-
-<img width="451" alt="image" src="https://github.com/user-attachments/assets/98e0476a-aec1-46c2-a444-37f25cb1c27a">
 
 ---
 
