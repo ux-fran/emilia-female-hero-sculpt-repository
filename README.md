@@ -3,10 +3,10 @@
 🔙 _Back to all my Blender projects Wiki_: [Fran's blender Projects Hub](https://github.com/ux-fran/blender-projects-main-hub-repo/wiki)
 
 _Project status: Finished_ 🎉\
-_Repository_: [emilia-female-hero-sculpt-repo](https://github.com/ux-fran/emilia-female-hero-sculpt-repo) (This page 😊)\
+_Repository_: [emilia-female-hero-sculpt-repository](https://github.com/ux-fran/emilia-female-hero-sculpt-repository) (This page 😊)\
 _Project Progress_: [Emilia progress](https://github.com/users/ux-fran/projects/65)\
 
-This repository (a.k.a. "project folder") documents the progress of creating the **Emilia Sculpt** as part of my Blender learning adventure. 🎨✨
+This repository (a.k.a. "project folder") documents the progress of creating the **Emilia Sculpt** as part of my Blender learning adventure. 🎨✨ Here, you'll find everything related to this project—from progress updates to resources and the final render!
 
 ---
 
@@ -20,8 +20,8 @@ This repository (a.k.a. "project folder") documents the progress of creating the
   - [Creating eyeballs by Homespau](https://youtube.com/shorts/E2dcs3sxOZQ?si=Fb8mvxKMAFF5PeaN),
   - [Creating hair curves by Aram art](https://youtu.be/wu_TkcQZqJg?si=vKszywq3TOL178KB),
   - [Straight line tutorial for boot details](https://www.youtube.com/watch?v=pZke4PlSWvc)
-- **Blog post**: [Sculpting Emilia](https://www.fran43cg.com/blog/2024/02/21/sculpting-emilia/)
-- **YouTube Video**: [My First Blender Sculpt in 6 Steps! Struggles and Victories](https://www.youtube.com/watch?v=RRQ6s4M4ipc)
+- **My blog post**: [Sculpting Emilia](https://www.fran43cg.com/blog/2024/02/21/sculpting-emilia/)
+- **My YouTube Video**: [My First Blender Sculpt in 6 Steps! Struggles and Victories](https://www.youtube.com/watch?v=RRQ6s4M4ipc)
 
 ---
 
@@ -49,6 +49,7 @@ Here’s the final render of the Emilia sculpt! Always room for improvement but 
 ### Credits
 - **Special Credit to Speedchar (Niko)**: The sculpting techniques and guidance from Speedchar (Niko) were invaluable to this project. Check out his amazing work at [Speedchar’s ArtStation](https://www.artstation.com/speedchar).
 - **Special Credit to Palamarchuk Mikhail** for the [reference image](https://www.artstation.com/artwork/OoYZXg).
+
 ---
 
 ### Final Notes
@@ -58,7 +59,7 @@ The **Emilia Sculpt Project** provided a great opportunity to delve deep into ch
 
 ## 🌐 Explore More
 
-Looking for a full overview of all my Blender projects? Head over to the **[Blender-Projects-Repo Wiki](https://github.com/ux-fran/blender-projects-main-hub-repo/wiki)**—the central hub where I showcase all my projects and share insights about my Blender journey. 🛠️✨
+Looking for a full overview of all my Blender projects? Head over to the **[Blender-Projects-Repo Wiki](https://github.com/ux-fran/blender-projects-main-hub-repository/wiki)**—the central hub where I showcase all my projects and share insights about my Blender journey. 🛠️✨
 
 ---
 
@@ -79,5 +80,3 @@ Feel free to explore, share feedback, or suggest ideas. While this repository is
 ---
 
 ### Thank you for visiting the Emilia Sculpt repository! 🎉
-
-
