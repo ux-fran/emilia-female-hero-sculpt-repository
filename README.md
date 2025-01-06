@@ -4,7 +4,7 @@
 
 _Project status: Finished_ 🎉\
 _Repository_: [emilia-female-hero-sculpt-repository](https://github.com/ux-fran/emilia-female-hero-sculpt-repository) (This page 😊)\
-_Project Progress_: [Emilia progress](https://github.com/users/ux-fran/projects/65)\
+_Project Progress_: [Emilia progress](https://github.com/users/ux-fran/projects/65)
 
 This repository (a.k.a. "project folder") documents the progress of creating the **Emilia Sculpt** as part of my Blender learning adventure. 🎨✨ Here, you'll find everything related to this project—from progress updates to resources and the final render!
 
