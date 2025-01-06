@@ -10,6 +10,17 @@ This repository (a.k.a. "project folder") documents the progress of creating the
 
 ---
 
+## 🖼️ Renders
+
+Here’s the final render of the Emilia sculpt! Always room for improvement but I'll take those lessons with me in my second sculpt.
+
+![image](https://github.com/user-attachments/assets/98e0476a-aec1-46c2-a444-37f25cb1c27a)
+
+
+[![Emilia Sculpt Render](https://github.com/user-attachments/assets/7e3cdb89-72ba-4e35-96ca-e6dc4728a08c)](https://www.youtube.com/watch?v=SagD_fb1oiY)
+
+---
+
 ### Project Overview
 - **Goal**: To sculpt my first character model **Emilia**
 - **Art Style**: Semi-realistic character design with attention to anatomy.
@@ -22,16 +33,6 @@ This repository (a.k.a. "project folder") documents the progress of creating the
   - [Straight line tutorial for boot details](https://www.youtube.com/watch?v=pZke4PlSWvc)
 - **My blog post**: [Sculpting Emilia](https://www.fran43cg.com/blog/2024/02/21/sculpting-emilia/)
 - **My YouTube Video**: [My First Blender Sculpt in 6 Steps! Struggles and Victories](https://www.youtube.com/watch?v=RRQ6s4M4ipc)
-
----
-
-## 🖼️ Renders
-
-Here’s the final render of the Emilia sculpt! Always room for improvement but I'll take those lessons with me in my second sculpt.
-
-[![Emilia Sculpt Render](https://github.com/user-attachments/assets/7e3cdb89-72ba-4e35-96ca-e6dc4728a08c)](https://www.youtube.com/watch?v=SagD_fb1oiY)
-
-![image](https://github.com/user-attachments/assets/98e0476a-aec1-46c2-a444-37f25cb1c27a)
 
 ---
 
