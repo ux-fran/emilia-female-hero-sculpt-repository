@@ -31,7 +31,7 @@ Here’s the final render of the Emilia sculpt! Always room for improvement but 
 ## 📌 What's Inside This Repository
 
 - **Project Progress**:
-  - Explore the [Backlog](https://github.com/users/ux-fran/projects/65) for detailed steps or track my progress with the [Kanban Board](https://github.com/users/ux-fran/projects/65/views/2).
+  - Explore the [Backlog](https://github.com/users/ux-fran/projects/65) for detailed steps or track my progress with the [Kanban Board (a.k.a. ToDo list)](https://github.com/users/ux-fran/projects/65/views/2).
 - **Key Milestones**:
   - Milestone breakdowns with links to specific tasks or achievements.
 - **Resources**:
