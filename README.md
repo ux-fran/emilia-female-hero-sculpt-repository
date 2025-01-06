@@ -12,7 +12,12 @@ This repository (a.k.a. "project folder") documents the progress of creating the
 - **Goal**: To sculpt my first character model **Emilia**
 - **Art Style**: Semi-realistic character design with attention to anatomy.
 - **Tools Used**: Blender
-- **Resources used**: [Course by SpeedChar](https://www.youtube.com/watch?v=irWAjPQyYzg), [Eye ball tutorial by Speedchar](https://www.youtube.com/watch?v=EydgMh8etEg&t=965s), [Creating eyeballs by Homespau](https://youtube.com/shorts/E2dcs3sxOZQ?si=Fb8mvxKMAFF5PeaN), [Creating hair curves by Aram art](https://youtu.be/wu_TkcQZqJg?si=vKszywq3TOL178KB), [Straight line tutorial for boot details](https://www.youtube.com/watch?v=pZke4PlSWvc)
+- **Resources used**:
+  - [Demon Huntress course by SpeedChar](https://www.youtube.com/watch?v=irWAjPQyYzg),
+  - [Eye ball tutorial by Speedchar](https://www.youtube.com/watch?v=EydgMh8etEg&t=965s),
+  - [Creating eyeballs by Homespau](https://youtube.com/shorts/E2dcs3sxOZQ?si=Fb8mvxKMAFF5PeaN),
+  - [Creating hair curves by Aram art](https://youtu.be/wu_TkcQZqJg?si=vKszywq3TOL178KB),
+  - [Straight line tutorial for boot details](https://www.youtube.com/watch?v=pZke4PlSWvc)
 - **Blog post**: [Sculpting Emilia](https://www.fran43cg.com/blog/2024/02/21/sculpting-emilia/)
 - **YouTube Video**: [My First Blender Sculpt in 6 Steps! Struggles and Victories](https://www.youtube.com/watch?v=RRQ6s4M4ipc)
 
