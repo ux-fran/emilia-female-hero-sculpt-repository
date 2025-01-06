@@ -8,6 +8,16 @@ This repository (a.k.a. "project folder") documents the progress of creating the
 
 ---
 
+### Project Overview
+- **Goal**: To sculpt my first character model **Emilia**
+- **Art Style**: Semi-realistic character design with attention to anatomy.
+- **Tools Used**: Blender
+- **Resources used**: [Course by SpeedChar](https://www.youtube.com/watch?v=irWAjPQyYzg), [Eye ball tutorial by Speedchar](https://www.youtube.com/watch?v=EydgMh8etEg&t=965s), [Creating eyeballs by Homespau](https://youtube.com/shorts/E2dcs3sxOZQ?si=Fb8mvxKMAFF5PeaN), [Creating hair curves by Aram art](https://youtu.be/wu_TkcQZqJg?si=vKszywq3TOL178KB), [Straight line tutorial for boot details](https://www.youtube.com/watch?v=pZke4PlSWvc)
+- **Blog post**: [Sculpting Emilia](https://www.fran43cg.com/blog/2024/02/21/sculpting-emilia/)
+- **YouTube Video**: [My First Blender Sculpt in 6 Steps! Struggles and Victories](https://www.youtube.com/watch?v=RRQ6s4M4ipc)
+
+---
+
 ## 🖼️ Renders
 
 Here’s the final render of the Emilia sculpt! Always room for improvement but I'll take those lessons with me in my second sculpt.
@@ -15,15 +25,6 @@ Here’s the final render of the Emilia sculpt! Always room for improvement but 
 [![Emilia Sculpt Render](https://github.com/user-attachments/assets/7e3cdb89-72ba-4e35-96ca-e6dc4728a08c)](https://www.youtube.com/watch?v=SagD_fb1oiY)
 
 ![image](https://github.com/user-attachments/assets/98e0476a-aec1-46c2-a444-37f25cb1c27a)
-
----
-
-### Project Overview
-- **Goal**: To sculpt my first character model **Emilia**
-- **Art Style**: Semi-realistic character design with attention to anatomy.
-- **Tools Used**: Blender
-- **Blog post**: [Sculpting Emilia](https://www.fran43cg.com/blog/2024/02/21/sculpting-emilia/)
-- **YouTube Video**: [My First Blender Sculpt in 6 Steps! Struggles and Victories](https://www.youtube.com/watch?v=RRQ6s4M4ipc)
 
 ---
 
@@ -35,6 +36,16 @@ Here’s the final render of the Emilia sculpt! Always room for improvement but 
   - Milestone breakdowns with links to specific tasks or achievements.
 - **Resources**:
   - Access any related files, references, or additional materials.
+
+---
+
+### Credits
+- **Special Credit to Speedchar (Niko)**: The sculpting techniques and guidance from Speedchar (Niko) were invaluable to this project. Check out his amazing work at [Speedchar’s ArtStation](https://www.artstation.com/speedchar).
+- **Special Credit to Palamarchuk Mikhail** for the [reference image](https://www.artstation.com/artwork/OoYZXg).
+---
+
+### Final Notes
+The **Emilia Sculpt Project** provided a great opportunity to delve deep into character sculpting, focusing on facial expressions and hair sculpting. The project is now complete, and it was a rewarding learning process for character modeling and detailing in Blender.
 
 ---
 
