@@ -1,12 +1,20 @@
-# Welcome to the Emilia Sculpt Repository!
+# Welcome to the Emilia Sculpt Repository! 🎨✨
 
-🔙 _Back to all my Blender projects Wiki_: [Fran's blender Projects Hub](https://github.com/ux-fran/blender-projects-main-hub-repo/wiki)
+🔙 _Back to my Blender projects main hub_: [Fran's Blender Projects Main Hub](https://github.com/ux-fran/blender-projects-main-hub-repo)
 
-_Project status: Finished_ 🎉\
-_Repository_: [emilia-female-hero-sculpt-repository](https://github.com/ux-fran/emilia-female-hero-sculpt-repository) (This page 😊)\
-_Project Progress_: [Emilia progress](https://github.com/users/ux-fran/projects/65)
+_Project Status_: **Finished** 🎉  
+_Repository_: **[Emilia Female Hero Sculpt](https://github.com/ux-fran/emilia-female-hero-sculpt-repo)**  
 
-This repository (a.k.a. "project folder") documents the progress of creating the **Emilia Sculpt** as part of my Blender learning adventure. 🎨✨ Here, you'll find everything related to this project—from progress updates to resources and the final render!
+Welcome to my **first character sculpting project in Blender!** This repository documents my progress, insights, and the final render of **Emilia**, a semi-realistic female hero character. Along the way, I’ve learned valuable lessons in anatomy, facial expressions, and hair sculpting.
+
+Here, you’ll find:
+
+- 🖼️ **Final renders and video** of the project  
+- 🛠️ **Resources and tutorials used**  
+- ✅ **Progress tracking via GitHub Kanban**  
+- 📚 **Lessons learned and credits**  
+
+Whether you're here to learn, explore, or simply follow along—thank you for joining my Blender journey!
 
 ---
 
