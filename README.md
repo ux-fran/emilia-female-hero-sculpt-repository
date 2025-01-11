@@ -4,6 +4,7 @@
 
 _Project Status_: **Finished** 🎉  
 _Repository_: **[Emilia Female Hero Sculpt](https://github.com/ux-fran/emilia-female-hero-sculpt-repo)**  
+_Project Progress_: **[Emilia Progress](https://github.com/users/ux-fran/projects/65)** 
 
 Welcome to my **first character sculpting project in Blender!** This repository documents my progress, insights, and the final render of **Emilia**, a semi-realistic female hero character. Along the way, I’ve learned valuable lessons in anatomy, facial expressions, and hair sculpting.
 
