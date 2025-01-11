@@ -52,7 +52,7 @@ Here’s the final render of the Emilia sculpt! Always room for improvement but 
 - **Key Milestones**:
   - Milestone breakdowns with links to specific tasks or achievements.
 - **Resources**:
-  - Access any related files, references, or additional materials.
+  - Access to any related files, references, or additional materials if and when available.
 
 ---
 
