@@ -17,6 +17,9 @@ Here, you’ll find:
 
 Whether you're here to learn, explore, or simply follow along—thank you for joining my Blender journey!
 
+## ❓ Questions?
+If you have any questions about this project, feel free to ask them in the [Q&A Discussion](https://github.com/ux-fran/emilia-female-hero-sculpt-repository/discussions)! 💬
+
 ---
 
 ## 🖼️ Renders
